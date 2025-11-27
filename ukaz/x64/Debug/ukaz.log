@@ -1,0 +1,2 @@
+﻿  ukaz.cpp
+C:\Users\Ваня\source\repos\ukaz\ukaz\ukaz.cpp(290,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
